@@ -28,10 +28,11 @@ If GitHub preview doesn’t render properly, open with **NBViewer**:
 ---
 
 ## 📊 Results
-- **Training Accuracy:** ~XX%  
-- **Validation Accuracy:** ~YY%  
+- **Training Accuracy:** ~87.70%  
+- **Validation Accuracy:** ~85.59%  
 - **Confusion Matrix:**  
-  *(insert image if you have it, e.g. `confusion_matrix.png`)*  
+  ![Confusion Matrix](images/confusion_matrix.png)
+
 
 ---
 
