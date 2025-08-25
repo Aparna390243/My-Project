@@ -1,2 +1,48 @@
-# My-Project
-Lab_Based_Project
+# 🫀 Heart Failure Detection using Artificial Neural Network (ANN)
+
+This project predicts the likelihood of **heart failure** using patient medical records and an **Artificial Neural Network (ANN)**.  
+The notebook is implemented in **Google Colab** with Python, TensorFlow/Keras, and other ML libraries.
+
+---
+
+## 🚀 Features
+- Data preprocessing (handling missing values, normalization, train-test split)
+- ANN architecture built with TensorFlow/Keras
+- Training, validation, and performance evaluation
+- Accuracy, loss curves, and confusion matrix
+- Easy to run in Google Colab
+
+---
+
+## 📂 Notebook
+You can view or run the full notebook with **code + outputs** here:
+
+▶️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1enMeu_c3rm37mt73nvnTaJ4Nkfqk8j2w)
+
+🔗 **[View on GitHub](https://github.com/Aparna390243/My-Project/blob/main/Copy_of_Heart_Failure_Prediction_Using_ANN_Model.ipynb)**  
+
+
+If GitHub preview doesn’t render properly, open with **NBViewer**:  
+🔗 [View with NBViewer](https://nbviewer.org/github/Aparna390243/My-Project/blob/main/Copy_of_Heart_Failure_Prediction_Using_ANN_Model.ipynb)
+
+---
+
+## 📊 Results
+- **Training Accuracy:** ~XX%  
+- **Validation Accuracy:** ~YY%  
+- **Confusion Matrix:**  
+  *(insert image if you have it, e.g. `confusion_matrix.png`)*  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Google Colab  
+- TensorFlow / Keras  
+- Pandas, NumPy, Matplotlib, Seaborn  
+
+---
+
+## 👨‍💻 Author
+**Aparna Sahu**  
+🔗 [GitHub Profile](https://github.com/Aparna390243)
